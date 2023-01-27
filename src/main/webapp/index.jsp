@@ -6,7 +6,7 @@
       <h1>WE HAVE DEPLOYED OUR WEB APP USING JENKINS</h1>
       <h1><iframe src="https://giphy.com/embed/DV4xrWjA11BSg" width="480" height="434" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/favorite-woods-DV4xrWjA11BSg">via GIPHY</a></p><h1>
       <h2>FROM CCIT</h2>
-      <h3> this is cicd job </h3>
+      <h3> this is cicd job to deploy</h3>
       <h4>THIS IS MY VERSION 2.0</h4>
       <h2><iframe src="https://giphy.com/embed/bLWpCpfSmZXtm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-uninvited-bLWpCpfSmZXtm">via GIPHY</a></p><h2>  
   
